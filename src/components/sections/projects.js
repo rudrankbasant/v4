@@ -189,7 +189,7 @@ const Projects = () => {
       }
     }
   `);
-
+  /*eslint no-unused-vars: "error"*/
   const [showMore, setShowMore] = useState(false);
   const revealTitle = useRef(null);
   const revealArchiveLink = useRef(null);
@@ -302,8 +302,8 @@ const Projects = () => {
         )}
       </ul>
 
-      <button className="more-button" onClick={() => setShowMore(!showMore)}>
-        Show {showMore ? 'Less' : 'More'}
+      <button className="more-button" onClick={() => setShowMore(showMore)}>
+        {/* Show {showMore ? 'Less' : 'More'} */}
       </button>
     </StyledProjectsSection>
   );

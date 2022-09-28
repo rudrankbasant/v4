@@ -125,7 +125,18 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = [
+    'Kotlin',
+    'Java',
+    'SQL',
+    'Firebase',
+    'Python',
+    'Figma',
+    'C',
+    'C++',
+    'Git',
+    'Flutter',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,30 +146,32 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hi, I'm Rudrank. I have worked on many projects in Kotlin and I am still yearning to
+              work on more!
             </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
-            <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+              As of now, I’ve had the privilege of working individually as well as with many teams
+              to build and debug (and occassionally design) applications. I am a part of the
+              technical team of many student clubs like{' '}
+              <a href="https://dscvit.com/">Google Developer Student Club</a>,{' '}
+              <a href="https://www.linkedin.com/company/acmvit/mycompany/">
+                Association for Computing Machinery
               </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              and{' '}
+              <a href="https://www.linkedin.com/company/ieee-vit-vellore/mycompany/">IEEE-VIT</a>.
+            </p>
+
+            <p>
+              I also had the privilege of gaining industrial experience while working for{' '}
+              <a href="https://www.linkedin.com/company/snoh/">a start-up</a>.
+            </p>
+
+            <p>
+              Currently, I’m a sophomore at{' '}
+              <span style={{ color: 'var(--green)' }}>VIT, Vellore</span>, persuing a Bachelor's
+              Degree in Computer Science and Engineering, and hold a{' '}
+              <span style={{ color: 'var(--green)' }}>CGPA of 9.26</span>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +186,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.jpeg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}
