@@ -8,3 +8,4 @@ url: 'https://www.linkedin.com/company/ieee-vit-vellore/mycompany/'
 ---
 
 - Part of Core Technical Team of IEEE VIT.
+- Acted as the maintainer of Hacktoberfest 2022 Repository opened by the club for volunteers to contribute.

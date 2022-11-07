@@ -128,14 +128,16 @@ const About = () => {
   const skills = [
     'Kotlin',
     'Java',
+    'Flutter/Dart',
     'SQL',
     'Firebase',
     'Python',
+    'Node.js',
+    'Go',
     'Figma',
     'C',
     'C++',
     'Git',
-    'Flutter',
   ];
 
   return (

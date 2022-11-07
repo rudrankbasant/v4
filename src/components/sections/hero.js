@@ -60,12 +60,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Rudrank Basant</h2>;
-  const three = <h3 className="big-heading">I build apps for Android .</h3>;
+  const three = <h3 className="big-heading">I build Apps .</h3>;
   const four = (
     <>
       <p>
-        I’m an Android app developer and I build apps using Kotlin. Currently, I’m a sophomore at
-        VIT, Vellore, persuing a Bachelor's Degree in Computer Science and Engineering.
+        I’m an Android app developer and I build apps using Kotlin, although I am familiar with
+        Flutter and Dart as well. Currently, I’m a sophomore at VIT, Vellore, persuing a Bachelor's
+        Degree in Computer Science and Engineering.
       </p>
     </>
   );
