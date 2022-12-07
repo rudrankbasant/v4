@@ -166,7 +166,7 @@ const About = () => {
 
             <p>
               I also had the privilege of gaining industrial experience while working for{' '}
-              <a href="https://www.linkedin.com/company/snoh/">a start-up</a>.
+              <a href="https://www.linkedin.com/company/snoh/">a start-up</a>, and as a freelancer.
             </p>
 
             <p>

@@ -65,8 +65,7 @@ const Hero = () => {
     <>
       <p>
         I’m an Android app developer and I build apps using Kotlin, although I am familiar with
-        Flutter and Dart as well. Currently, I’m a sophomore at VIT, Vellore, persuing a Bachelor's
-        Degree in Computer Science and Engineering.
+        Flutter and Dart as well. I am also familiar with Node.js and Go for backend.
       </p>
     </>
   );
