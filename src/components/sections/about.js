@@ -131,6 +131,7 @@ const About = () => {
     'Flutter/Dart',
     'SQL',
     'Firebase',
+    'Django',
     'Python',
     'Node.js',
     'Go',
@@ -148,8 +149,8 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi, I'm Rudrank. I have worked on many projects in Kotlin and I am still yearning to
-              work on more!
+              Hi, I'm Rudrank. I have worked on many projects using Kotlin and Dart and I am
+              yearning to work on more!
             </p>
 
             <p>
@@ -166,14 +167,16 @@ const About = () => {
 
             <p>
               I also had the privilege of gaining industrial experience while working for{' '}
-              <a href="https://www.linkedin.com/company/snoh/">a start-up</a>, and as a freelancer.
+              <a href="/#jobs">two start-ups and as a freelancer</a>. One of my most noteworthy
+              industrial experience would be developing the{' '}
+              <a href="/#jobs">Official Riviera App</a>, single-handedly.
             </p>
 
             <p>
               Currently, I’m a sophomore at{' '}
               <span style={{ color: 'var(--green)' }}>VIT, Vellore</span>, persuing a Bachelor's
               Degree in Computer Science and Engineering, and hold a{' '}
-              <span style={{ color: 'var(--green)' }}>CGPA of 9.26</span>.
+              <span style={{ color: 'var(--green)' }}>CGPA of 9.36</span>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

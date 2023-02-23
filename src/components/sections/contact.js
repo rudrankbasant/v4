@@ -60,8 +60,8 @@ const Contact = () => {
       <h2 className="title">Get In Touch</h2>
 
       <p>
-        I'm currently looking for internships to build more Android apps using Kotlin. Mail me with
-        the link below, or drop a message on my{' '}
+        I'm currently looking for internships to build more applications. Mail me with the link
+        below, or drop a message on my{' '}
         <a href="https://www.linkedin.com/in/rudrankbasant/"> LinkedIn Profile </a>
       </p>
 

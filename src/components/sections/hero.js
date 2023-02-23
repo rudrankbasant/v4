@@ -64,8 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m an Android app developer and I build apps using Kotlin, although I am familiar with
-        Flutter and Dart as well. I am also familiar with Node.js and Go for backend.
+        I develop Android app using Kotlin and cross-platform apps using Flutter and Dart. I am also
+        familiar with Node.js, Django and Go for backend.
       </p>
     </>
   );
