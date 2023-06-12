@@ -167,7 +167,7 @@ const About = () => {
 
             <p>
               I also had the privilege of gaining industrial experience while working for{' '}
-              <a href="/#jobs">two start-ups and as a freelancer</a>. One of my most noteworthy
+              <a href="/#jobs">three start-ups and as a freelancer</a>. One of my most noteworthy
               industrial experience would be developing the{' '}
               <a href="/#jobs">Official Riviera App</a>, single-handedly.
             </p>

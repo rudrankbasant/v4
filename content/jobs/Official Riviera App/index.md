@@ -1,7 +1,7 @@
 ---
 date: '2023-01-01'
-title: 'Official Riviera App'
-company: 'VIT Vellore'
+title: 'VIT Vellore'
+company: 'Official Riviera App'
 location: 'Remote'
 range: 'January - February 2023'
 url: 'https://play.google.com/store/apps/details?id=in.ac.vit.riviera23'
