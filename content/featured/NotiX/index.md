@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: 'NotiX'
 cover: './notix.png'
 github: 'https://github.com/rudrankbasant/NotiX'
