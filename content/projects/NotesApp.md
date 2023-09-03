@@ -7,9 +7,11 @@ tech:
   - Flutter
   - Node.js
   - Express.js
+  - MongoDB
   - Android Studio
 company: Personal Project
 showInProjects: true
 ---
 
-A full-stack project made using Flutter and Node.js to store your notes. It has the functionality of performing all CRUD operations.
+A full-stack project made using Flutter and Node.js and JavaScript to store your notes. Performs all
+CRUD functions with MongoDB database and Mongoose.

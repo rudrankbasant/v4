@@ -11,4 +11,4 @@ company: Personal Project
 showInProjects: true
 ---
 
-A backend application using Django and Python to create an Ecommerce website backend.
+A backend application using Django and Python to create an Ecommerce website backend. Performs CRUD operation with different products and categories. Built with Django and Python.

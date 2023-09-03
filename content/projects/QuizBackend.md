@@ -11,4 +11,5 @@ company: Personal Project
 showInProjects: true
 ---
 
-A backend application using Django and Python to create an Ecommerce website backend.
+A backend application to provide operations questions and answers with each question in relation to different quizzes. Feature of providing random questions from quizzes. Built with Django Rest Framework
+and Python

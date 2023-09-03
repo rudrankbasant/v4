@@ -60,12 +60,12 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Rudrank Basant</h2>;
-  const three = <h3 className="big-heading">I build Apps .</h3>;
+  const three = <h3 className="medium-heading">I build Apps and Backend .</h3>;
   const four = (
     <>
       <p>
-        I develop Android app using Kotlin and cross-platform apps using Flutter and Dart. I am also
-        familiar with Node.js, Django and Go for backend.
+        Experienced backend developer proficient with Node.js, and Django, and familiar with Go. I
+        also build Android and Flutter apps.
       </p>
     </>
   );
