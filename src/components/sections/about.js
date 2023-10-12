@@ -126,18 +126,25 @@ const About = () => {
   }, []);
 
   const skills = [
+    'Node.js',
+    'TypeScript',
+    'JavaScript',
+    'PostgreSQL',
+    'MongoDB',
+    'Docker',
+    'Amazon Web Services',
+    'Azure',
+    'Django',
+    'Python',
+    'Go',
+    'SQL',
     'Kotlin',
     'Java',
     'Flutter/Dart',
-    'SQL',
+    'GraphQL',
     'Firebase',
-    'Django',
-    'Python',
-    'Node.js',
-    'Go',
     'Figma',
-    'C',
-    'C++',
+    'C/C++',
     'Git',
   ];
 
@@ -149,13 +156,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hi, I'm Rudrank. I have worked on many projects using Kotlin and Dart and I am
-              yearning to work on more!
+              As of now, I have had the privilege of gaining industrial experience while working for{' '}
+              <a href="/#jobs">several start-ups and as a freelancer</a>. One of my most noteworthy
+              industrial experience would be developing the{' '}
+              <a href="https://github.com/rudrankbasant/Riviera23-app#readme">
+                Official Riviera App
+              </a>
+              , single-handedly, which went on to gain over 8000+ users.
             </p>
 
             <p>
-              As of now, I’ve had the privilege of working individually as well as with many teams
-              to build and debug (and occassionally design) applications. I am a part of the
+              Currently, I’m a third year student at{' '}
+              <span style={{ color: 'var(--green)' }}>VIT, Vellore</span>, persuing a Bachelor's
+              Degree in Computer Science and Engineering, and hold a{' '}
+              <span style={{ color: 'var(--green)' }}>CGPA of 9.36</span>. I am a part of the
               technical team of many student clubs like{' '}
               <a href="https://dscvit.com/">Google Developer Student Club</a>,{' '}
               <a href="https://www.linkedin.com/company/acmvit/mycompany/">
@@ -163,20 +177,6 @@ const About = () => {
               </a>{' '}
               and{' '}
               <a href="https://www.linkedin.com/company/ieee-vit-vellore/mycompany/">IEEE-VIT</a>.
-            </p>
-
-            <p>
-              I also had the privilege of gaining industrial experience while working for{' '}
-              <a href="/#jobs">three start-ups and as a freelancer</a>. One of my most noteworthy
-              industrial experience would be developing the{' '}
-              <a href="/#jobs">Official Riviera App</a>, single-handedly.
-            </p>
-
-            <p>
-              Currently, I’m a sophomore at{' '}
-              <span style={{ color: 'var(--green)' }}>VIT, Vellore</span>, persuing a Bachelor's
-              Degree in Computer Science and Engineering, and hold a{' '}
-              <span style={{ color: 'var(--green)' }}>CGPA of 9.36</span>.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>

@@ -64,7 +64,7 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        Experienced backend developer proficient with Node.js, and Django, and familiar with Go. I
+        Experienced backend developer proficient with Node.js, and familiar with Django and Go. I
         also build Android and Flutter apps.
       </p>
     </>
